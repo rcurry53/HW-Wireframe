@@ -1,0 +1,59 @@
+* {
+  box-sizing: border-box;
+  text-align: center;
+}
+
+body{
+  background: gray;
+}
+
+header{
+  padding: 20px;
+  margin-bottom: 20px;
+  background: white;
+}
+
+nav{
+  padding: 20px;
+  margin-bottom: 20px;
+  background: white;
+}
+
+#h{
+  padding: 20px;
+  margin-bottom: 20px;
+  background: white;
+}
+
+#p{
+  padding: 20px;
+  margin-bottom: 20px;
+  background: white;
+}
+#section{
+  padding: 20px;
+  margin-bottom: 20px;
+  background: white;
+  width: 55%;
+  float: left;
+}
+
+div{
+  padding: 20px;
+  background: gray;
+}
+
+#aside{
+  padding: 125px;
+  margin-bottom: 20px;
+  background: white;
+  width: 40%;
+  float: right;
+}
+
+
+footer{
+  padding: 20px;
+  clear: both;
+  background: white;
+}
