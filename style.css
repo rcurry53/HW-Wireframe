@@ -4,6 +4,8 @@
 }
 
 body{
+  font-size: 24px;
+  line-height: 32px;
   background: gray;
 }
 
@@ -19,41 +21,45 @@ nav{
   background: white;
 }
 
-#h{
-  padding: 20px;
+section{
   margin-bottom: 20px;
   background: white;
+}
+
+.section{
+  padding: 60px;
+  float: left;
+  width: 52.5%;
+  margin: 20px
+}
+
+#article{
+  background:gray;
+  padding: 40px;
+}
+
+.aside{
+  padding: 196px;
+  float: left;
+  width: 42.5%;
+  margin: 20px;
+}
+
+#htag{
+  background: white;
+  margin: 5px;
+  padding: 20px;
 }
 
 #p{
-  padding: 20px;
-  margin-bottom: 20px;
   background: white;
-}
-#section{
+  margin: 5px;
   padding: 20px;
-  margin-bottom: 20px;
-  background: white;
-  width: 55%;
-  float: left;
 }
-
-div{
-  padding: 20px;
-  background: gray;
-}
-
-#aside{
-  padding: 125px;
-  margin-bottom: 20px;
-  background: white;
-  width: 40%;
-  float: right;
-}
-
 
 footer{
-  padding: 20px;
   clear: both;
+  padding: 20px;
+  margin-bottom: 20px;
   background: white;
 }
